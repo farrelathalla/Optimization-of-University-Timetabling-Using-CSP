@@ -25,6 +25,6 @@ Ensure you have the following installed:
    ```
 
 3. **Run the program:**
-  ```bash
+   ```bash
    python csp.py
    ```
